@@ -1,3 +1,3 @@
-for (var a = 1; a <= 5; a++) {
-    console.log(a);
+for (var i = 1; i <= 5; i++) {
+    console.log(i);
 }

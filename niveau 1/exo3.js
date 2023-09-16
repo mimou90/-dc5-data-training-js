@@ -1,8 +1,7 @@
 
 var note = 65;
 
-if (note >= 50) {
+if (note >= 50) 
     console.log("Réussite");
-} else {
+else 
     console.log("Échec");
-}
